@@ -1,0 +1,11 @@
+id,first_name,last_name,email,age,phone_number,address
+1,John,Doe,johndoe@example.com,28,555-1234,123 Elm St, Springfield
+2,Jane,Smith,janesmith@example.com,34,555-5678,456 Oak St, Metropolis
+3,Bob,Johnson,bob.johnson@example.com,45,555-9012,789 Maple St, Gotham
+4,Alice,Williams,alice.williams@example.com,23,555-3456,321 Pine St, Star City
+5,Charlie,Brown,charlie.brown@example.com,31,555-7890,654 Cedar St, Smallville
+6,Eve,Davis,eve.davis@example.com,40,555-4321,987 Birch St, Central City
+7,Mike,Wilson,mike.wilson@example.com,27,555-8765,159 Aspen St, Coast City
+8,Emily,Clark,emily.clark@example.com,35,555-2345,753 Willow St, Blüdhaven
+9,Daniel,Moore,daniel.moore@example.com,29,555-6789,852 Fir St, Keystone City
+10,Sarah,Lewis,sarah.lewis@example.com,32,555-0123,951 Oak Ave, National City
